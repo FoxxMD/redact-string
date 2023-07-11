@@ -1,6 +1,6 @@
 {
   "$schema": "https://typedoc.org/schema.json",
-  "name": "string-sameness Docs",
+  "name": "redact-string Docs",
   "entryPoints": ["./src"],
   "sort": ["source-order"],
   "categorizeByGroup": false,
@@ -8,7 +8,7 @@
     "Functions": 1.5
   },
   "navigationLinks": {
-    "Docs": "http://foxxmd.github.io/string-sameness",
-    "GitHub": "https://github.com/foxxmd/string-sameness"
+    "Docs": "https://foxxmd.github.io/redact-string",
+    "GitHub": "https://github.com/foxxmd/redact-string"
   }
 }

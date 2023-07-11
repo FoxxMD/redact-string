@@ -2,7 +2,7 @@
 
 Redact (replace) part or all of a string with a character.
 
-## Why another react package?
+## Why another redact package?
 
 The other popular packages seem to be restricted to a certain behavior:
 
