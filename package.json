@@ -1,6 +1,6 @@
 {
   "name": "@foxxmd/redact-string",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Redact part or all of string by replacing character",
   "repository": "https://github.com/FoxxMD/redact-string",
   "author": "FoxxMD",
